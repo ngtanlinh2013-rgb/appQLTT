@@ -1,0 +1,5 @@
+{
+  "name": "EduManager - Quản lý Trung tâm Dạy thêm",
+  "description": "Ứng dụng quản lý học sinh, lớp học, điểm danh và tính học phí theo chu kỳ 8 buổi cho trung tâm dạy thêm.",
+  "requestFramePermissions": []
+}
